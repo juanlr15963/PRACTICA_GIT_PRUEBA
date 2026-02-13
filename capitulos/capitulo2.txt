@@ -1,0 +1,1 @@
+El flujo de trabajo básico con Git consiste en: 1- Hacer cambios... 2- Añadir... 3- Hacer commit.
